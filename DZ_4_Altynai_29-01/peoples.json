@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Altynai",
+    "age": 21,
+
+    "color": "red",
+    "image": "img/Zayac.avif"
+  },
+  {
+    "name": "Arthur",
+    "age": 22,
+
+    "color": "blue",
+    "image": "img/lis.avif"
+  },
+  {
+    "name": "Nurzat",
+    "age": 18,
+
+    "color": "pink",
+    "image": "img/Medv.jpg"
+  },
+  {
+    "name": "Kairat",
+    "age": 20,
+    "color": "black",
+    "image": "img/Xom.avif"
+  },
+  {
+    "name": "Tynchtyk",
+    "age": 23,
+    "color": "green",
+    "image": "img/obl.avif"
+  }
+]
